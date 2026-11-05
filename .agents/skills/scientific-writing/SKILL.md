@@ -285,21 +285,21 @@ Once the outline is complete, expand each bullet point into proper prose:
 **Example conversion to prose:**
 
 ```
-Artificial intelligence approaches have gained significant traction in drug discovery 
-pipelines over the past decade (Smith, 2023; Jones, 2024). While these computational 
-methods show promise for accelerating the identification of therapeutic candidates, 
-traditional experimental approaches remain slow and resource-intensive, often requiring 
-years of laboratory work and substantial financial investment. However, the application 
-of AI to rare diseases has been limited, with only two prior studies demonstrating 
-proof-of-concept results (Lee, 2022; Chen, 2023). The primary obstacle has been the 
-scarcity of training data for conditions affecting small patient populations. 
+Artificial intelligence approaches have gained significant traction in drug discovery
+pipelines over the past decade (Smith, 2023; Jones, 2024). While these computational
+methods show promise for accelerating the identification of therapeutic candidates,
+traditional experimental approaches remain slow and resource-intensive, often requiring
+years of laboratory work and substantial financial investment. However, the application
+of AI to rare diseases has been limited, with only two prior studies demonstrating
+proof-of-concept results (Lee, 2022; Chen, 2023). The primary obstacle has been the
+scarcity of training data for conditions affecting small patient populations.
 
-To address this challenge, we developed a transfer learning approach that leverages 
-knowledge from well-characterized common diseases to predict therapeutic targets for 
-rare conditions. Our novel neural architecture combines convolutional layers for 
-molecular feature extraction with attention mechanisms for protein-ligand interaction 
-modeling. The objective of this study was to validate our approach across three 
-independent rare disease datasets, assessing both predictive accuracy and biological 
+To address this challenge, we developed a transfer learning approach that leverages
+knowledge from well-characterized common diseases to predict therapeutic targets for
+rare conditions. Our novel neural architecture combines convolutional layers for
+molecular feature extraction with attention mechanisms for protein-ligand interaction
+modeling. The objective of this study was to validate our approach across three
+independent rare disease datasets, assessing both predictive accuracy and biological
 interpretability of the results.
 ```
 

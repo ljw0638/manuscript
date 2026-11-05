@@ -3,7 +3,7 @@
 Source: https://github.com/Boom5426/Nature-Paper-Skills
 Commit: 00ecc183dddc5aba23462c1d547d250836122962
 Installed: skills/core/scientific-writing/SKILL.md and all seven original references.
-Additional static dependencies: paper-workflow/references/section-contracts.md and section-evidence.md, bundled in references/. References in SKILL.md, imrad_structure.md and editor-first-impression.md now resolve locally. Original YAML metadata is unchanged. These are the only modified upstream files; project-local integration notes were appended to SKILL.md.
+Additional static dependencies: paper-workflow/references/section-contracts.md and section-evidence.md, bundled in references/. References in SKILL.md, imrad_structure.md and editor-first-impression.md now resolve locally. Original YAML metadata is unchanged. Trailing whitespace was also normalized in SKILL.md and figures_tables.md. These and the reference-path changes are the only modified upstream files; project-local integration notes were appended to SKILL.md.
 
 ## Licenses
 

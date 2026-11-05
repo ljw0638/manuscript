@@ -749,7 +749,7 @@ Figure 1. Architecture of proposed model. (a) Encoder with 12 transformer layers
 
 **Technical (all venues):**
 - [ ] Meets format requirements (PDF/EPS/TIFF)
-- [ ] Sufficient resolution (300+ dpi) 
+- [ ] Sufficient resolution (300+ dpi)
 - [ ] Fits venue dimensions/page limits
 - [ ] Self-explanatory captions
 - [ ] All symbols/abbreviations defined
